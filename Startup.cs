@@ -14,6 +14,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
 // https://medium.com/@renato.groffe/entity-framework-core-2-0-novidades-e-exemplos-sql-server-e-postgresql-3b067ab15e8f
+// http://www.npgsql.org/efcore/
 
 namespace EnglishAppWeb
 {
@@ -28,9 +29,17 @@ namespace EnglishAppWeb
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddEntityFrameworkSqlServer()
+            // services.AddEntityFrameworkSqlServer()
+            //     .AddDbContext<EnglishAppContext>(
+            //         options => options.UseSqlServer(
+            //             Configuration.GetConnectionString("BDEnglishApp")));
+
+            // AUTO MIGRATE
+            // https://github.com/jincod/dotnetcore-buildpack/issues/33
+
+            services.AddEntityFrameworkNpgsql()
                 .AddDbContext<EnglishAppContext>(
-                    options => options.UseSqlServer(
+                    options => options.UseNpgsql(
                         Configuration.GetConnectionString("BDEnglishApp")));
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
