@@ -1,0 +1,14 @@
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/bin/Debug/netcoreapp2.2/EnglishAppWeb.deps.json
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/bin/Debug/netcoreapp2.2/EnglishAppWeb.runtimeconfig.json
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/bin/Debug/netcoreapp2.2/EnglishAppWeb.runtimeconfig.dev.json
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/bin/Debug/netcoreapp2.2/EnglishAppWeb.dll
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/bin/Debug/netcoreapp2.2/EnglishAppWeb.pdb
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/obj/Debug/netcoreapp2.2/EnglishAppWeb.csprojAssemblyReference.cache
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/obj/Debug/netcoreapp2.2/EnglishAppWeb.csproj.CoreCompileInputs.cache
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/obj/Debug/netcoreapp2.2/EnglishAppWeb.RazorAssemblyInfo.cache
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/obj/Debug/netcoreapp2.2/EnglishAppWeb.RazorAssemblyInfo.cs
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/obj/Debug/netcoreapp2.2/EnglishAppWeb.AssemblyInfoInputs.cache
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/obj/Debug/netcoreapp2.2/EnglishAppWeb.AssemblyInfo.cs
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/obj/Debug/netcoreapp2.2/EnglishAppWeb.RazorTargetAssemblyInfo.cache
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/obj/Debug/netcoreapp2.2/EnglishAppWeb.dll
+/Users/henriquedezani/Documents/Desenvolvimento/fatec/TCC/english_app_project/EnglishAppWeb/obj/Debug/netcoreapp2.2/EnglishAppWeb.pdb
